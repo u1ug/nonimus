@@ -1,1 +1,3 @@
-# nonimus is a hardware accelerated archiver
+# nonimus-kit
+
+- hardware accelerated archiver
