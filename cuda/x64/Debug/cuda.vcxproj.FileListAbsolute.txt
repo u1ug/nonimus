@@ -1,0 +1,1 @@
+C:\Users\Semyon\GolandProjects\nonimus\cuda\x64\Debug\cuda.exe
